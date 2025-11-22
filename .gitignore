@@ -3,3 +3,4 @@
 *.json
 *.pdf
 course/
+__pycache__
